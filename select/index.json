@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "DEAD CENTER",
+  "base_artist": "Reol",
+  "createdAt": "2026-02-06T13:25:30.349289Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "TOP DEAD CENTER",
+      "artist": "Xavier Wulf feat. Quintin Lamb",
+      "has_synced": true,
+      "path": "select/01_TOP_DEAD_CENTER_Xavier_Wulf_feat._Quintin_Lamb.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "TOP DEAD CENTER",
+      "artist": "Xavier Wulf/Quintin Lamb",
+      "has_synced": true,
+      "path": "select/02_TOP_DEAD_CENTER_Xavier_Wulf_Quintin_Lamb.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "TOP DEAD CENTER",
+      "artist": "Xavier Wulf",
+      "has_synced": false,
+      "path": "select/03_TOP_DEAD_CENTER_Xavier_Wulf.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dead Center",
+      "artist": "Biv",
+      "has_synced": false,
+      "path": "select/04_Dead_Center_Biv.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Dead Center",
+      "artist": "Scarefield",
+      "has_synced": true,
+      "path": "select/05_Dead_Center_Scarefield.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "DEAD CENTER",
+      "artist": "Reol feat. LiSA",
+      "has_synced": true,
+      "path": "select/06_DEAD_CENTER_Reol_feat._LiSA.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DEAD CENTER",
+      "artist": "Reol, LiSA",
+      "has_synced": false,
+      "path": "select/pl_01_DEAD_CENTER_Reol,_LiSA.txt"
+    }
+  ]
+}
